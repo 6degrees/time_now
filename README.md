@@ -1,4 +1,4 @@
-# time_now is ((xx))
+# time_now is (( Mon Apr 18 2022 02:07:17 GMT+0300 (Arabian Standard Time) ))
 
 an automated repo that shows the currnent time
 
