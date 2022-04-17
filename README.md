@@ -1,5 +1,5 @@
-# time_now
+# time_now is ((xx))
 
- an automated repo that shows the time now in a text file
+an automated repo that shows the currnent time
 
-file `time_now.txt` should show the time now according to my machine
+inspired by [breakingheatmap](https://github.com/breakingheatmap/breakingheatmap)
